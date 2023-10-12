@@ -1,0 +1,73 @@
+﻿[
+  {
+    "Id": "7f814371-6a72-4536-b77c-60aa419b51ff",
+    "Name": "Gordon Ramsay",
+    "HiringDate": "2022-05-05",
+    "Position": "Software Engineer",
+    "Salary": 1000
+  },
+  {
+    "Id": "22d1b613-f8eb-4943-9f81-90ebeaa7e961",
+    "Name": "Jone Smit",
+    "HiringDate": "2021-10-23",
+    "Position": "Middle Software Engineer",
+    "Salary": 2000
+  },
+  {
+    "Id": "18709645-c5a4-43ff-b47e-f1da905acc60",
+    "Name": "Adams Barker",
+    "HiringDate": "2020-01-05",
+    "Position": "Leader",
+    "Salary": 3000
+  },
+  {
+    "Id": "2aff582d-b4af-4ba8-9dfa-6a8186009898",
+    "Name": "Bennett Campbell",
+    "HiringDate": "2020-03-20",
+    "Position": "Senior Software Engineer",
+    "Salary": 2500
+  },
+  {
+    "Id": "55bec84e-a21d-4940-a1d3-a547a60ba07d",
+    "Name": "Edwards Hall",
+    "HiringDate": "2023-09-10",
+    "Position": "Fresher",
+    "Salary": 500.50
+  },
+  {
+    "Id": "dce21bb2-d997-427a-a850-2e7c3c74a581",
+    "Name": "Hunter Jenkins",
+    "HiringDate": "2022-06-13",
+    "Position": "Software Engineer",
+    "Salary": 700
+  },
+  {
+    "Id": "d1910fba-8eec-4a65-9426-63a1ad26835b",
+    "Name": "Knight Pearson",
+    "HiringDate": "2022-08-28",
+    "Position": "Software Engineer",
+    "Salary": 800
+  },
+  {
+    "Id": "0cb8701c-e833-4450-83e9-f18d45b74507",
+    "Name": "Powell Russell",
+    "HiringDate": "2022-07-15",
+    "Position": "Software Engineer",
+    "Salary": 900
+  },
+  {
+    "Id": "13f39b08-bc11-4592-8781-df2d2f8c14f4",
+    "Name": "Spencer Walsh",
+    "HiringDate": "2017-09-25",
+    "Position": "Leader",
+    "Salary": 3500
+  },
+  {
+    "Id": "7229c584-7165-464c-a3d8-f322592d3bf7",
+    "Name": "Walker Young",
+    "HiringDate": "2023-10-04",
+    "Position": "Fresher",
+    "Salary": 450
+  }
+]
+
